@@ -1,0 +1,42 @@
+{
+    "dev": {
+        "bank": {
+            "host": "35.203.166.139",
+            "port": "5432",
+            "user": "postgres",
+            "password": "IxNixBg1amzJ7cOM",
+            "database": "postgres"
+        },
+        "tenant": {
+            "host": "35.238.234.62",
+            "port": "5432",
+            "user": "postgres",
+            "password": "IxNixBg1amzJ7cOM",
+            "database": "postgres"
+        },
+        "user": {
+            "host": "34.71.153.112",
+            "port": "5432",
+            "user": "postgres",
+            "password": "IxNixBg1amzJ7cOM",
+            "database": "postgres"
+        },
+        "integrator": {
+            "host": "35.203.166.139",
+            "port": "5432",
+            "user": "postgres",
+            "password": "IxNixBg1amzJ7cOM",
+            "database": "integrator"
+        },
+        "rules": {
+            "host": "35.238.234.62",
+            "port": "5432",
+            "user": "postgres",
+            "password": "IxNixBg1amzJ7cOM",
+            "database": "rules-engine"
+        }
+    },
+    "qa": {
+        
+    }
+}

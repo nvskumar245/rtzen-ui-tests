@@ -1,0 +1,14 @@
+{
+    "dev_cred" : {
+        "username": {
+            "banking_user": "kumar+test4@onecompiler.com"
+        },
+        "password": {
+            "banking_user": "Qwaszx@12345"
+        }
+    },
+    "urls": {
+        "payments": "/invoices",
+        "banking": "/banking/dashboard"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "timeouts" : {
+        "EC_TIMEOUT" : 10000,
+        "SLEEP_TIMEOUT" : 2000,
+        "SLEEP_TIMEOUT_5000": 5000
+    }
+}

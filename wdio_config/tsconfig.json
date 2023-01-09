@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "types": [
+            "node",
+            "webdriverio/sync",
+            "@wdio/cucumber-framework",
+            "expect-webdriverio"
+        ],
+        "baseUrl": ".",
+        "target": "es2020",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+    }
+}
